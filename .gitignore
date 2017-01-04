@@ -1,0 +1,5 @@
+ah_data_half_hourly_filled.csv
+*.pyc
+*.nc
+.idea
+.DS_Store
