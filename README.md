@@ -4,11 +4,12 @@
 # DALEC2 model (Bloom and Williams 2015)
 ------------------------------------------------------------------------------
 
-Four dimensional variational data assimilation implemented with the DALEC2 model of forest carbon balance using data from the Alice Holt forest.
+Four dimensional variational data assimilation implemented with the DALEC2 model of forest carbon balance using data from the Alice Holt forest, Hampshire, UK.
 This project is written in object oriented Python, using classes to extract data from a netCDF file and run the DALEC2
 model. 
 Code by Ewan Pinnington: ewan.pinnington@gmail.com. 
 Used in Pinnington et al. 2016 paper: http://www.sciencedirect.com/science/article/pii/S016819231630332X
+
 For access to Alice Holt flux data (required to run this model) please contact: ewan.pinnington@gmail.com
 
 
